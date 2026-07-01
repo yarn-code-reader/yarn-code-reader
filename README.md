@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Qurrat-ul-Ain Akmal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack Developer;AI/ML Enthusiast;Game 
-Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=[Full-Stack-Developer];[GAME%%DEVELOPER];[YOUR_TAGLINE_3])](https://git.io/typing-svg)
 
 ---
 
@@ -67,7 +66,11 @@ The stack below reflects where I have actually been. It is not a brand. It is a 
 
 ## 🐍 CONTRIBUTION SNAKE
 
-![github contribution grid snake animation](https://github.com/yarn-code-reader/yarn-code-reader/raw/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/yarn-code-reader/yarn-code-reader/output/github-contribution-grid-snake.svg" />
+<p align="center"><a href="https://github.com/yarn-code-reader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yarn-code-reader&show_icons=true&theme=transparent&hide=contribs" />
+</a></p>
+
 
 ---
 
