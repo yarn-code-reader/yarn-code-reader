@@ -66,10 +66,11 @@ The stack below reflects where I have actually been. It is not a brand. It is a 
 
 ## 🐍 CONTRIBUTION SNAKE
 
-<img src="https://raw.githubusercontent.com/yarn-code-reader/yarn-code-reader/output/github-contribution-grid-snake.svg" />
-<p align="center"><a href="https://github.com/yarn-code-reader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yarn-code-reader&show_icons=true&theme=transparent&hide=contribs" />
-</a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yarn-code-reader/yarn-code-reader/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yarn-code-reader/yarn-code-reader/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/yarn-code-reader/yarn-code-readergit/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 ---
