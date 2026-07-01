@@ -1,204 +1,125 @@
-# 🎨 GitHub Revamp - Profile README Template
+# Hi there! 👋 I'm Qurrat-ul-Ain Akmal
 
-> Create an awesome GitHub profile README in minutes! Clone, customize, and showcase your projects with style.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/gulglitch/github-revamp?style=flat-square)](https://github.com/gulglitch/github-revamp/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/gulglitch/github-revamp?style=flat-square)](https://github.com/gulglitch/github-revamp/network)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack Developer;AI/ML Enthusiast;Game 
+Developer)](https://git.io/typing-svg)
 
 ---
 
-## 🌟 What is This?
+## 👨‍💻 About Me
 
-**GitHub Revamp** is a ready-to-use GitHub profile README template that helps you create a professional and eye-catching profile in minutes. No coding required - just clone, replace placeholders, and push!
+CS is too vast to pick a lane early. I want to understand computers. All of it.
 
-### ✨ Features
+I have written a game in assembly, built backends in Node, trained models in Python,
+and shipped graphics in C++ with SFML. I have built front end projects from scratch
+in plain HTML, CSS, and JS before moving to frameworks — understanding the ground
+before standing on top of it.
 
-- 🎯 **Easy to use** - Just replace placeholders with your info
-- 🐍 **Animated contribution snake** - GitHub Actions included
-- 📊 **GitHub stats cards** - Automatically updated
-- 🎨 **Fully customizable** - Colors, themes, sections
-- 📱 **Responsive design** - Looks great on all devices
-- 🚀 **Zero dependencies** - Pure markdown, no build process
-
----
-
-## 📸 Preview
-
-Check out the live example: [github.com/gulglitch](https://github.com/gulglitch)
+Each domain taught me something the others could not.
+The stack below reflects where I have actually been. It is not a brand. It is a record.
 
 ---
 
-## 🚀 Quick Start
+## ⭐ LATEST PROJECTS
 
-### 1️⃣ Create Your Profile Repository
 
-Your repository must be named **exactly** as your GitHub username:
-- Username: `john-doe` → Repository: `john-doe/john-doe`
+| 🎟️ **AVOELINE** | 🎬 **Movie Recommendation System** |
+| :--- | :--- |
+| **[View Repo](https://github.com/yarn-code-reader/avoeline)** | **[View Repo](https://github.com/yarn-code-reader/Movie-reccomendation-system)** |
+| A production-scale web platform built to solve Pakistan's fragmented, manual event-organization landscape — replacing spreadsheets, email rosters, and paper check-ins with a unified, automated system. | A movie recommendation engine built with C++ and SFML, combining a native desktop GUI with lightweight AI-based recommendation logic. |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white) |
 
-### 2️⃣ Clone This Template
+## 🔥 MORE PROJECTS
 
-```bash
-git clone https://github.com/gulglitch/github-revamp.git [your-username]
-cd [your-username]
-```
+| 🏥 **[Clinic Management System](https://github.com/yarn-code-reader/Clinic-Management-System)** | 🔄 **[AI Pipelining Project](https://github.com/SDA-project-phase-1/infoShip.git)** | 🕹️ **[Retro Tetris](https://github.com/yarn-code-reader/Tetris-game-v1.2)** |
+|---|---|---|
+| A full-stack clinic management system for handling patient records, appointments, and clinic operations. | An AI project focused on building a structured data pipeline from raw data through processing stages to model-ready output. | A classic Tetris clone built with C++ and SFML, recreating retro block-stacking gameplay from scratch. |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white) |
 
-### 3️⃣ Change Remote URL
+| 🎈 **[Balloon Popping Game (COAL Assembly)](https://github.com/yarn-code-reader/popping-ballon-in-assemblyx86)** |
+|---|
+| A balloon-popping game written in x86 Assembly for the COAL  course, running on DOSBox and assembled with NASM. |
+| ![Assembly](https://img.shields.io/badge/x86_Assembly-000000?style=flat-square) ![NASM](https://img.shields.io/badge/NASM-000000?style=flat-square) ![DOSBox](https://img.shields.io/badge/DOSBox-000000?style=flat-square) |
 
-```bash
-git remote remove origin
-git remote add origin https://github.com/[YOUR-USERNAME]/[YOUR-USERNAME].git
-```
-
-### 4️⃣ Customize Your Profile README
-
-Rename the template file:
-```bash
-# On Windows (cmd)
-move PROFILE_TEMPLATE.md README.md
-
-# On Windows (PowerShell) / macOS / Linux
-mv PROFILE_TEMPLATE.md README.md
-```
-
-Open `README.md` and replace all placeholders:
-- `[YOUR_NAME]` → Your name
-- `[YOUR_USERNAME]` → Your GitHub username
-- `[YOUR_EMAIL]` → Your email
-- `[YOUR_TAGLINE_X]` → Your taglines
-- And more...
-
-### 5️⃣ Push to GitHub
-
-```bash
-git add .
-git commit -m "Initial profile setup"
-git push -u origin main
-```
-
-### 6️⃣ Enable GitHub Actions
-
-1. Go to your repository settings
-2. Settings → Actions → General
-3. Enable "Read and write permissions"
-4. Save
-
-**Done!** Visit `github.com/[your-username]` to see your profile 🎉
+> 👉 See pinned repos below for live demos and code!
 
 ---
 
-## 📚 Full Documentation
+## 🏆 HIGHLIGHTS
 
-For detailed setup instructions, customization options, and troubleshooting, see:
-
-👉 **[SETUP_GUIDE.md](SETUP_GUIDE.md)**
-
----
-
-## 🎨 What's Included?
-
-### Sections in the Template:
-
-1. **Animated Header** - Dynamic typing effect with your taglines
-2. **About Me** - Introduction and interests
-3. **Latest Projects** - Showcase your top 2 projects with tech badges
-4. **More Projects** - Grid layout for up to 9 projects
-5. **Highlights** - Key achievements or focus areas
-6. **GitHub Stats** - Auto-generated stats, languages, and streak
-7. **Contribution Snake** - Animated contribution graph
-8. **Tech Stack** - Categorized technology badges
-9. **Connect With Me** - Social media links
-10. **Profile Views Counter** - Track your profile visitors
-
-### Files Included:
-
-```
-github-revamp/
-├── README.md                          # About this template (you're reading it!)
-├── PROFILE_TEMPLATE.md                # Your profile README template (rename to README.md)
-├── SETUP_GUIDE.md                     # Detailed setup instructions
-└── .github/
-    └── workflows/
-        └── snake.yml                  # Contribution snake animation
-```
+| 🎮 Low-Level Programming | 🤖 Machine Learning | 💻 Full-Stack Projects | Game Development |
+|---|---|---|---|
+| Assembly language games for DOS | Neural networks & classification | React Native CRUD applications, Python + JavaScript solutions | Fun Games in Unity with C#|
 
 ---
 
-## 🎯 Customization Tips
+## 📊 GITHUB STATS
 
-### Change Accent Color
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yarn-code-reader&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarn-code-reader&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
+</p>
 
-Replace `D85A30` (orange) with your preferred color:
-- Blue: `3B82F6`
-- Green: `10B981`
-- Purple: `8B5CF6`
-- Red: `EF4444`
-
-### Add More Tech Badges
-
-Visit [shields.io](https://shields.io/) and [simpleicons.org](https://simpleicons.org/)
-
-Format:
-```markdown
-![Name](https://img.shields.io/badge/Name-HexColor?style=flat-square&logo=logoname&logoColor=white)
-```
-
-### Change Stats Theme
-
-Available themes: `tokyonight`, `dark`, `radical`, `gruvbox`, `dracula`, `monokai`, `vue`, `onedark`, `cobalt`, `nightowl`
-
-Replace `theme=tokyonight` in the stats URLs.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yarn-code-reader&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🤝 Contributing
+## 🐍 CONTRIBUTION SNAKE
 
-Contributions are welcome! If you have ideas for improvements:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+![github contribution grid snake animation](https://github.com/yarn-code-reader/yarn-code-reader/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 📝 License
+## 🛠 TECHNICAL SKILLS
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Systems & Low Level**
 
----
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![NASM](https://img.shields.io/badge/NASM-000000?style=for-the-badge) ![DOSBox](https://img.shields.io/badge/DOSBox-000000?style=for-the-badge)
 
-## 💡 Inspiration
+**Game Development**
 
-This template was inspired by the need for an easy, customizable GitHub profile README that anyone can use without complex setup or dependencies.
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
----
+**Web — Frontend**
 
-## 🙏 Acknowledgments
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 
-- [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats) by anuraghazra
-- [Contribution Snake](https://github.com/Platane/snk) by Platane
-- [Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) by DenverCoder1
-- [Shields.io](https://shields.io/) for badges
-- [Simple Icons](https://simpleicons.org/) for logo icons
+**Web — Backend**
 
----
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-## ⭐ Show Your Support
+**Databases**
 
-If this template helped you create an awesome GitHub profile, please give it a star! ⭐
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
+**Data & Machine Learning**
 
-## 📫 Contact
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Gul e Zara** - [@gulglitch](https://github.com/gulglitch)
+**Deployment & Workflow**
 
-Project Link: [https://github.com/gulglitch/github-revamp](https://github.com/gulglitch/github-revamp)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-**Made with ❤️ for the developer community**
+## 📫 CONNECT WITH ME
 
-*Happy profiling! 🚀*
+<p align="center">
+  <a href="https://github.com/yarn-code-reader">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:qurrratulain2411@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/qurrat-ul-ain-akmal-805480365/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"This Too Shall Pass"</i>
+</p>
+
