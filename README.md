@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Qurrat-ul-Ain Akmal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=[Full-Stack-Developer];[GAME-DEVELOPER];[AI/ML-Enthusiast])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=[Full-Stack-Developer]-[GAME-DEVELOPER]-[AI/ML-Enthusiast])](https://git.io/typing-svg)
 
 ---
 
@@ -23,7 +23,7 @@ The stack below reflects where I have actually been. It is not a brand. It is a 
 
 | 🎟️ **AVOELINE** | 🎬 **Movie Recommendation System** |
 | :--- | :--- |
-| **[View Repo](https://github.com/yarn-code-reader/avoeline)** | **[View Repo](https://github.com/yarn-code-reader/Movie-reccomendation-system)** |
+| **[View Repo](https://github.com/yarn-code-reader/avoeline-website.git)** | **[View Repo](https://github.com/yarn-code-reader/Movie-reccomendation-system)** |
 | A production-scale web platform built to solve Pakistan's fragmented, manual event-organization landscape — replacing spreadsheets, email rosters, and paper check-ins with a unified, automated system. | A movie recommendation engine built with C++ and SFML, combining a native desktop GUI with lightweight AI-based recommendation logic. |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white) |
 
@@ -124,6 +124,6 @@ The stack below reflects where I have actually been. It is not a brand. It is a 
 ---
 
 <p align="center">
-  <i>"This Too Shall Pass"</i>
+  <i>"It all depends on how you look at things"</i>
 </p>
 
